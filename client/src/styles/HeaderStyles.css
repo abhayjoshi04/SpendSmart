@@ -1,0 +1,38 @@
+.navbar {
+  background-image: linear-gradient(to right, #e0eafc, #cfdef3) !important;
+  border-bottom: 2px solid #5a5a89;
+}
+
+.navbar .navbar-brand {
+  color: #5a5a89 !important;
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.nav-link {
+  color: #5a5a89 !important;
+  font-size: 1.2rem;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #2e2e5c !important;
+  text-decoration: underline;
+}
+
+.navbar h6 {
+  color: #5a5a89;
+  margin-top: 0;
+  margin-right: 20px;
+  font-size: 1rem;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+.navbar-toggler-icon {
+  background-image: linear-gradient(#5a5a89, #2e2e5c);
+  border-radius: 2px;
+}

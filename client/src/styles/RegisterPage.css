@@ -1,0 +1,44 @@
+.register-page {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(to right, #e0eafc, #cfdef3);
+}
+
+.register-form {
+  background-color: #fff;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 20px;
+  width: 30%;
+}
+
+.register-form h2 {
+  margin-top: 10px;
+  text-align: center;
+  font-weight: bold;
+  color: #5a5a89; /* A subtle purple shade */
+}
+
+.register-form a {
+  color: #5a5a89 !important;
+}
+
+.register-form a:hover {
+  color: #2e2e5c !important;
+}
+
+.register-form button {
+  background-color: #5a5a89;
+  color: white;
+}
+
+.register-form input:focus {
+  border: 1px solid #5a5a89 !important;
+  color: #5a5a89;
+}
+
+.register-form button:hover {
+  background-color: #2e2e5c;
+  color: white;
+}

@@ -1,0 +1,72 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+client/node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+client/build/
+client/dist/
+
+# Production
+client/.next/
+client/out/
+client/.cache/
+.next/
+out/
+.cache/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Testing
+coverage/
+*.lcov
+.nyc_output/
+
+# Debug
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.bak
+*.swp
+
+# Git generated files
+*.orig
+
+# Other specific files
+client/package-lock.json
+package-lock.json
+yarn.lock
+
+# SASS cache
+.sass-cache/
+
+# Logs and diagnostics
+*.log
+
+# Optional npm cache directory
+.npm/
