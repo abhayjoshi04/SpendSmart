@@ -16,7 +16,7 @@ An advanced, efficient, and user-friendly application for managing expenses and 
 - **Frontend**: Vite, React, Ant Design, CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Deployment**: Heroku
+- **Deployment**: Render
 
 ## Getting Started
 
