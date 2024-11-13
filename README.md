@@ -24,3 +24,17 @@ An advanced, efficient, and user-friendly application for managing expenses and 
 
 - [Node.js](https://nodejs.org/) installed
 - [MongoDB](https://www.mongodb.com/) instance or cluster setup
+
+## Screenshots
+
+### Home Page
+![image](https://github.com/user-attachments/assets/860f5128-0c55-4f17-869f-95bbcab05ea0)
+
+### Analytics Page
+![image](https://github.com/user-attachments/assets/1a0493cf-8733-4d11-91e5-8d06842ed472)
+
+### Add/Edit Transactions
+![image](https://github.com/user-attachments/assets/c9a95ebe-d703-4f72-b59d-23801e594697)
+
+
+
